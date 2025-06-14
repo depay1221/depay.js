@@ -1,17 +1,16 @@
 {
 
-  "secretCode": "rafkyxxx",
+  "secretCode": "nika",
 
-  "description": "RapkiNoCounter", 
+  "description": "depaydev", 
 
   "lastUpdated": "12/04/2025",
 
-  "author": "RapkiGanteng", 
+  "author": "nika", 
 
   "status": "Active",
 
   "license": "MIT",
 
   "version": "1.0"
-
-    }
+}
