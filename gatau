@@ -2,6 +2,7 @@
   "dbnya": [
     "62881012143331",
     "6283138811092",
-    "6285124893334"
+    "6285124893334",
+    "Gagal menambahkan nomor: Cannot read properties of undefined (reading 'includes')"
   ]
 }
